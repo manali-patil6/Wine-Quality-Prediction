@@ -1,7 +1,7 @@
 # Wine-Quality-Prediction
 Decodr - Product Research
 
-Inspiration
+Inspiration : 
 Use machine learning to determine which physiochemical properties make a wine 'good'!
 
 Fisrt, some EDA is done using matplotlib and seaborn. Then different classifier models are used to predict the quality of the wine.
