@@ -1,6 +1,6 @@
 # Wine-Quality-Prediction
 
-Classification is a process of categorizing a given set of data into classes, It can be performed on both structured or unstructured data. The process starts with predicting the class of given data points. The classes are often referred to as target, label or categories.
+Classification is a process of categorizing a given set of data into classes, It can be performed on both structured or unstructured data. The process involves predicting the class of given data points. The classes are often referred to as target, label or categories.
 
 ## Problem Description : 
 
