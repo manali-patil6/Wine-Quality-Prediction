@@ -9,9 +9,22 @@ Our aim is to create a model that can classify dataset wine samples as 'good' or
 ## Understanding our Dataset
 We will be using a [Wine Data Set](https://archive.ics.uci.edu/ml/datasets/Wine) from the UCI Machine Learning repository which has a very good collection of datasets for experimental research purposes. The direct data link is [here](https://archive.ics.uci.edu/ml/machine-learning-databases/wine/).
 
-These attributes are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines.
+The dataset is related to red variants of the Portuguese "Vinho Verde" wine.
 
+The features represented through columns are as follows: 
 
+- fixed acidity
+- volatile acidity
+- citric acid
+- residual sugar
+- chlorides
+- free sulfur dioxide
+- total sulfur dioxide
+- density
+- pH
+- sulphates
+- alcohol
+- quality (score between 0 and 10) (based on sensory data)
 
 Fisrt, some EDA is done using matplotlib and seaborn. Then different classifier models are used to predict the quality of the wine.
 
