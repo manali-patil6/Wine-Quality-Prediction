@@ -26,16 +26,25 @@ The features represented through columns are as follows:
 - alcohol
 - quality (score between 0 and 10) (based on sensory data)
 
-Fisrt, some EDA is done using matplotlib and seaborn. Then different classifier models are used to predict the quality of the wine.
+## Steps:
+1. Importing Libraries
+2. Exploring the Dataset
+3. Exploratory Data Analysis
+> * Univariate Analysis
+4. Data Preprocessing
+5. Model Building
+> * Random Forest Classifier
+> * Stochastic Gradient Descent Classifier
+> * Support Vector Classifier(SVC)
+6. Validation
+> * Grid Search CV
+> * Cross Validation Score
+7. Conclusion
 
-1. Random Forest Classifier
-
-2. Stochastic Gradient Descent Classifier
-
-3. Support Vector Classifier(SVC)
-
-Then, cross validation evaluation technique is used to optimize the model performance.
-
-1. Grid Search CV
-
-2. Cross Validation Score
+## Libraries Required:
+- Sklearn 
+- Matplotlib
+- pandas
+- numpy
+- Seaborn
+- Collections
