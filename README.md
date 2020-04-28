@@ -6,7 +6,7 @@ Classification is a process of categorizing a given set of data into classes, It
 
 Our aim is to create a model that can classify dataset wine samples as 'good' or 'bad', based on the training we give to the model. This will be done with the help of certain physiochemical properties of the wine samples.
 
-## Understanding our Dataset
+## Understanding our Dataset :
 We will be using a [Wine Data Set](https://archive.ics.uci.edu/ml/datasets/Wine) from the UCI Machine Learning repository which has a very good collection of datasets for experimental research purposes. The direct data link is [here](https://archive.ics.uci.edu/ml/machine-learning-databases/wine/).
 
 The dataset is related to red variants of the Portuguese "Vinho Verde" wine.
@@ -26,7 +26,7 @@ The features represented through columns are as follows:
 - alcohol
 - quality (score between 0 and 10) (based on sensory data)
 
-## Libraries Required:
+## Libraries Required :
 - Sklearn 
 - Matplotlib
 - pandas
@@ -34,7 +34,7 @@ The features represented through columns are as follows:
 - Seaborn
 - Collections
 
-## Steps:
+## Steps :
 1. Importing Libraries
 2. Exploring the Dataset
 3. Exploratory Data Analysis
