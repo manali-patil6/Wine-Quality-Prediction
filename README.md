@@ -26,6 +26,14 @@ The features represented through columns are as follows:
 - alcohol
 - quality (score between 0 and 10) (based on sensory data)
 
+## Libraries Required:
+- Sklearn 
+- Matplotlib
+- pandas
+- numpy
+- Seaborn
+- Collections
+
 ## Steps:
 1. Importing Libraries
 2. Exploring the Dataset
@@ -40,11 +48,3 @@ The features represented through columns are as follows:
 > * Grid Search CV
 > * Cross Validation Score
 7. Conclusion
-
-## Libraries Required:
-- Sklearn 
-- Matplotlib
-- pandas
-- numpy
-- Seaborn
-- Collections
